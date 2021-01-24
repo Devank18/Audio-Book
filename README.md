@@ -1,8 +1,6 @@
 # audiobook
 read any audio book using 12 lines of python
 
-### Tutorial
-[Video Tutoraial](https://youtu.be/kyZ_5cvrXJI)
 --------------------------------------------
 
 ### Installation
